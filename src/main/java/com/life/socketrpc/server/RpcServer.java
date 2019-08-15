@@ -16,6 +16,7 @@ import java.util.Map;
 
 /**
  * 服务端实现
+ * 目标就是启动一个一直监听socket的东西，当有socket进来的时候,反序列化，然后通过反射拿到结果
  * @author: qirp
  * @since: 2019/8/14 15:06
  **/
@@ -47,9 +48,12 @@ public class RpcServer {
             String methodName = input.readUTF();
             try {
                 Class<?>[] parameterTypes = (Class<?>[])input.readObject();
-                Class serverClass = registryMap.get(serverName);
-                Method method = serverClass.getMethod(methodName,parameterTypes);
                 Object[] arguments = (Object[]) input.readObject();
+                //获取目标类实例
+                Class serverClass = registryMap.get(serverName);
+                //拿到具体的执行方法
+                Method method = serverClass.getMethod(methodName,parameterTypes);
+
                 //invoke出结果
                 Object result = method.invoke(serverClass.newInstance(),arguments);
                 ObjectOutputStream outputStream = new ObjectOutputStream(socket.getOutputStream());

@@ -1,4 +1,4 @@
-package com.life.hits.proxy.staticProxy;
+package com.life.proxy.staticProxy;
 
 import lombok.extern.slf4j.Slf4j;
 

@@ -1,4 +1,4 @@
-package com.life.hits.proxy.staticProxy;
+package com.life.proxy.staticProxy;
 
 /**
  * 静态代理

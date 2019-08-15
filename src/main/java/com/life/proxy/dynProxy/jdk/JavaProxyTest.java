@@ -1,7 +1,7 @@
-package com.life.hits.proxy.dynProxy.jdk;
+package com.life.proxy.dynProxy.jdk;
 
-import com.life.hits.proxy.dynProxy.Target;
-import com.life.hits.proxy.dynProxy.TargetImpl;
+import com.life.proxy.dynProxy.Target;
+import com.life.proxy.dynProxy.TargetImpl;
 import lombok.extern.slf4j.Slf4j;
 
 import java.lang.reflect.InvocationHandler;

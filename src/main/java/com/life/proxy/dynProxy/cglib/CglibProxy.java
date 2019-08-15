@@ -1,4 +1,4 @@
-package com.life.hits.proxy.dynProxy.cglib;
+package com.life.proxy.dynProxy.cglib;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.cglib.proxy.MethodInterceptor;

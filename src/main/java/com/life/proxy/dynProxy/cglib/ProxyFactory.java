@@ -1,6 +1,6 @@
-package com.life.hits.proxy.dynProxy.cglib;
+package com.life.proxy.dynProxy.cglib;
 
-import com.life.hits.proxy.dynProxy.Target;
+import com.life.proxy.dynProxy.Target;
 import org.springframework.cglib.proxy.Enhancer;
 
 /**

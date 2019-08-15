@@ -1,4 +1,4 @@
-package com.life.hits.proxy.staticProxy;
+package com.life.proxy.dynProxy;
 
 /**
  * 需要被代理的接口

@@ -2,77 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a32224c9-4aab-49c7-916b-b01ad108fd24" name="Default" comment="init">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/AQS/lock/Mutex$Sync.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/AQS/lock/Mutex.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/Application.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/autoTest/mainTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/decoratorPattern/SourceClothes.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/juc/copyonwriterlist/add.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/proxy/dynProxy/Target.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/proxy/dynProxy/TargetImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/proxy/dynProxy/cglib/CglibProxy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/proxy/dynProxy/cglib/CglibProxyTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/proxy/dynProxy/cglib/ProxyFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/proxy/dynProxy/jdk/JavaProxyTest$myInvocationHandler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/proxy/dynProxy/jdk/JavaProxyTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/proxy/staticProxy/StaticProxy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/proxy/staticProxy/StaticProxyTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/proxy/staticProxy/Target.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/proxy/staticProxy/TargetImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/rocketmq/receive$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/rocketmq/receive.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/rocketmq/sent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/springBatch/Application.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/springBatch/batch/demoConfigration.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/springBatch/batch/demoItemProcessor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/springBatch/batch/demoItemReader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/springBatch/batch/demoItemWriter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/springBatch/job/demoJob.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/springBatch/vo/Person.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/test/A.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/test/ArrayListTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/test/B.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/test/ConcurrentHashMapTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/test/CopyOnWriteArrayListTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/test/CountDownLatchTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/test/Customer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/test/CyclicBarrierTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/test/DD.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/test/DeadLock.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/test/HashMapDeadLock.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/test/HashMapTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/test/JDBCDemon.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/test/PrintABC$ThreadA.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/test/PrintABC$ThreadB.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/test/PrintABC$ThreadC.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/test/PrintABC.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/test/StrSplitTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/test/StringBuilder$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/test/StringBuilder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/test/TestBeanUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/test/TestCopy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/test/TestStarter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/test/User.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/test/UsualDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/test/big.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/test/date.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/test/googleUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/test/lambdaDemo$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/test/lambdaDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/test/test$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/test/test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/test/test01.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/hits/validator/TestVo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/myspring/beandefinition/BeanDefinition.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/myspring/beandefinition/BeanDefinitionRegistry.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/myspring/beandefinition/impl/DefaultBeanDefinition.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/myspring/factory/BeanFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/myspring/factory/impl/DefaultBeanFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/socketrpc/client/RpcClientProxy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/socketrpc/server/IHello.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/socketrpc/server/Impl/HelloServiceImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/life/socketrpc/server/RpcServer.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/life/socketrpc/server/RpcServer.java" afterPath="$PROJECT_DIR$/src/main/java/com/life/socketrpc/server/RpcServer.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/life/hits/proxy/dynProxy/Target.java" afterPath="$PROJECT_DIR$/src/main/java/com/life/proxy/dynProxy/Target.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/life/hits/proxy/dynProxy/TargetImpl.java" afterPath="$PROJECT_DIR$/src/main/java/com/life/proxy/dynProxy/TargetImpl.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/life/hits/proxy/dynProxy/cglib/CglibProxy.java" afterPath="$PROJECT_DIR$/src/main/java/com/life/proxy/dynProxy/cglib/CglibProxy.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/life/hits/proxy/dynProxy/cglib/CglibProxyTest.java" afterPath="$PROJECT_DIR$/src/main/java/com/life/proxy/dynProxy/cglib/CglibProxyTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/life/hits/proxy/dynProxy/cglib/ProxyFactory.java" afterPath="$PROJECT_DIR$/src/main/java/com/life/proxy/dynProxy/cglib/ProxyFactory.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/life/hits/proxy/dynProxy/jdk/JavaProxyTest.java" afterPath="$PROJECT_DIR$/src/main/java/com/life/proxy/dynProxy/jdk/JavaProxyTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/life/hits/proxy/staticProxy/StaticProxy.java" afterPath="$PROJECT_DIR$/src/main/java/com/life/proxy/staticProxy/StaticProxy.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/life/hits/proxy/staticProxy/StaticProxyTest.java" afterPath="$PROJECT_DIR$/src/main/java/com/life/proxy/staticProxy/StaticProxyTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/life/hits/proxy/staticProxy/Target.java" afterPath="$PROJECT_DIR$/src/main/java/com/life/proxy/staticProxy/Target.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/life/hits/proxy/staticProxy/TargetImpl.java" afterPath="$PROJECT_DIR$/src/main/java/com/life/proxy/staticProxy/TargetImpl.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -99,21 +40,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Target.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/life/hits/proxy/dynProxy/Target.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="IHello.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/life/socketrpc/server/IHello.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="184">
               <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JavaProxyTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/life/proxy/dynProxy/jdk/JavaProxyTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="41" column="32" lean-forward="false" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -134,12 +75,12 @@
       <file leaf-file-name="RpcServer.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/life/socketrpc/server/RpcServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
-              <caret line="42" column="21" lean-forward="false" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+            <state relative-caret-position="218">
+              <caret line="18" column="50" lean-forward="false" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#679#680#0" expanded="true" />
-                <element signature="e#711#712#0" expanded="true" />
+                <element signature="e#734#735#0" expanded="true" />
+                <element signature="e#766#767#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -148,8 +89,8 @@
       <file leaf-file-name="RpcClientProxy.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/life/socketrpc/client/RpcClientProxy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="24" column="45" lean-forward="false" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
+            <state relative-caret-position="724">
+              <caret line="45" column="31" lean-forward="false" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -197,7 +138,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/life/hits/validator/TestVo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/life/hits/validator/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/life/hits/validator/TestValidator.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/life/hits/validator/ValidationUtils.java" />
@@ -247,6 +187,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/life/socketrpc/server/Impl/HelloServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/life/socketrpc/server/IHello.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/life/socketrpc/client/RpcClientProxy.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/main/java/com/life/socketrpc/server/RpcServer.java" />
       </list>
     </option>
@@ -301,6 +242,81 @@
               <item name="hits" type="b2602c69:ProjectViewProjectNode" />
               <item name="hits" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="hits" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hits" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hits" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hits" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hits" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hits" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hits" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hits" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="life" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hits" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hits" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="life" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hits" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hits" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="life" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="dynProxy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hits" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hits" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="life" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="dynProxy" type="462c0819:PsiDirectoryNode" />
+              <item name="jdk" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hits" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hits" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="life" type="462c0819:PsiDirectoryNode" />
+              <item name="socketrpc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hits" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hits" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="life" type="462c0819:PsiDirectoryNode" />
+              <item name="socketrpc" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -341,11 +357,11 @@
     <configuration name="CglibProxyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.life.hits.proxy.dynProxy.cglib.*" />
+          <option name="PATTERN" value="com.life.proxy.dynProxy.cglib.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.life.hits.proxy.dynProxy.cglib.CglibProxyTest" />
+      <option name="MAIN_CLASS_NAME" value="com.life.proxy.dynProxy.cglib.CglibProxyTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -607,8 +623,23 @@
       <workItem from="1561620649574" duration="4007000" />
       <workItem from="1562047702749" duration="201645000" />
       <workItem from="1565163891449" duration="14881000" />
-      <workItem from="1565765572060" duration="6880000" />
+      <workItem from="1565765572060" duration="9137000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1565777498029</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1565777498029</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init">
+      <created>1565777595853</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1565777595853</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -644,7 +675,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="362299000" />
+    <option name="totallyTimeSpent" value="364556000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -657,7 +688,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925257" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3286517" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3034965" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37622377" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -719,6 +750,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <option name="time" value="22" />
@@ -726,13 +761,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Hashtable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="360" column="43" lean-forward="true" selection-start-line="360" selection-start-column="43" selection-end-line="360" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -881,14 +909,14 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/life/hits/proxy/staticProxy/agentImpl.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/life/hits/proxy/staticProxy/subjectImpl.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/life/hits/proxy/staticProxy/subject.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/life/hits/proxy/staticProxy/Target.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/life/proxy/staticProxy/Target.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/life/hits/proxy/staticProxy/TargetImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/life/proxy/staticProxy/TargetImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
           <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
@@ -909,7 +937,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/life/hits/proxy/dynProxy/TargetImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/life/proxy/dynProxy/TargetImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="164">
           <caret line="10" column="15" lean-forward="false" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
@@ -1001,7 +1029,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/life/hits/proxy/dynProxy/cglib/ProxyFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/life/proxy/dynProxy/cglib/ProxyFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
           <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
@@ -1011,7 +1039,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/life/hits/proxy/dynProxy/cglib/CglibProxyTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/life/proxy/dynProxy/cglib/CglibProxyTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
           <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
@@ -1019,17 +1047,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/life/hits/proxy/dynProxy/jdk/JavaProxyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/life/hits/proxy/staticProxy/StaticProxyTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/life/proxy/staticProxy/StaticProxyTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
           <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
@@ -1037,18 +1055,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/life/hits/proxy/staticProxy/StaticProxy.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/life/proxy/staticProxy/StaticProxy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
           <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
           <folding>
-            <element signature="e#235#236#0" expanded="false" />
-            <element signature="e#281#282#0" expanded="false" />
+            <element signature="e#230#231#0" expanded="false" />
+            <element signature="e#276#277#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/life/hits/proxy/dynProxy/Target.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/life/proxy/dynProxy/Target.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
           <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
@@ -1056,22 +1074,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/life/hits/proxy/dynProxy/cglib/CglibProxy.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/life/proxy/dynProxy/cglib/CglibProxy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="12" column="6" lean-forward="true" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
           <folding>
             <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/life/socketrpc/server/Impl/HelloServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="28" lean-forward="false" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1092,10 +1100,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/hits.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/life/socketrpc/server/Impl/HelloServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="28" lean-forward="false" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/life/proxy/dynProxy/jdk/JavaProxyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="41" column="32" lean-forward="false" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/life/socketrpc/client/RpcClientProxy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="24" column="45" lean-forward="false" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
+        <state relative-caret-position="724">
+          <caret line="45" column="31" lean-forward="false" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1104,21 +1146,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/life/socketrpc/server/RpcServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="42" column="21" lean-forward="false" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+        <state relative-caret-position="218">
+          <caret line="18" column="50" lean-forward="false" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#679#680#0" expanded="true" />
-            <element signature="e#711#712#0" expanded="true" />
+            <element signature="e#734#735#0" expanded="true" />
+            <element signature="e#766#767#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
