@@ -5,6 +5,7 @@ import java.util.Map;
 import java.util.UUID;
 
 /**
+ * 形成换结构，然后get操作
  * @author: qirp
  * @since: 2019/7/29 16:15
  **/

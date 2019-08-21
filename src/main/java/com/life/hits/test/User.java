@@ -2,6 +2,7 @@ package com.life.hits.test;
 
 import lombok.Data;
 
+import java.io.Serializable;
 import java.sql.Timestamp;
 
 /**
@@ -9,7 +10,7 @@ import java.sql.Timestamp;
  * @since: 2018/6/20 19:42
  **/
 @Data
-public class User {
+public class User implements Serializable{
     private String name;
     private String pwd;
     private String adress;
