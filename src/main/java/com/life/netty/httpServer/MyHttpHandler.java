@@ -1,6 +1,7 @@
 package com.life.netty.httpServer;
 
 import io.netty.buffer.Unpooled;
+import io.netty.channel.ChannelHandler;
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.SimpleChannelInboundHandler;
 import io.netty.handler.codec.http.*;
@@ -16,6 +17,7 @@ import java.util.Map;
  * @since: 2019/8/22 18:28
  **/
 @Slf4j
+@ChannelHandler.Sharable//标识当前实例可以再channel中共享
 public class MyHttpHandler extends SimpleChannelInboundHandler<FullHttpRequest> {
     private AsciiString contentType = HttpHeaderValues.TEXT_PLAIN;
 
